@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Maven Pro', sans-serif;
+
+
+}
+
+.header01 {
+    text-align: center;
+    font-size: 1.8rem;
+    padding: 20px 0;
+    color: hotpink;
+    font-weight: bolder;
+
+
+
+}
+
+
+main {
+    width: 90%;
+    height: 550px;
+    margin: auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+div {
+
+
+    width: 30%;
+    height: 160px;
+    border: 1px solid solid black;
+    box-shadow: 6px 5px 9px darkgrey;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 8px 0;
+}
+
+.a {
+    background-image: url(../images/cruel%20summer%20a.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.b {
+    background-image: url(../images/the%20man%20b.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.c {
+    background-image: url(../images/miss%20americana%20c.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.d {
+    background-image: url(../images/archer%20d.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.e {
+    background-image: url(../images/london%20boy%20e.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.f {
+    background-image: url(../images/cornelia%20street%20f.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.g {
+    background-image: url(../images/lover%20g.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.h {
+    background-image: url(../images/afterglow%20h.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.i {
+    background-image: url(../images/false%20god%20i.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
